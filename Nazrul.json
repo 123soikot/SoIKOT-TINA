@@ -1,12 +1,14 @@
 {
   "author": "NAZRUL",
   "autoRestart": true,
-  "accpetPending": false,
+  "acceptPending": false,
   "developermode": false,
   "language": "en",
   "notification": false,
   "approval": false,
   "saveState": false,
+  "email": "hosenmdsakhoyat@gmail.com",
+  "password": "aibot009+",
   "BOTNAME": "𝐄𝐱 𝟏𝟎 𝐛𝐨𝐭",
   "PREFIX": ".",
   "OPERATOR": [
@@ -23,6 +25,6 @@
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
-  "notice": "dont cng author name and owner uid. otherwise bot not working",
-  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
+  "notice": "dont change author name and owner uid, otherwise bot will not work",
+  "notice2": "if you run using email and password, keep saveState false; otherwise, set saveState to true"
 }
