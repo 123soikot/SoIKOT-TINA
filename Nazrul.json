@@ -7,19 +7,19 @@
   "notification": false,
   "approval": false,
   "saveState": false,
-  "BOTNAME": "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐡𝐚𝐭",
-  "PREFIX": "/",
+  "BOTNAME": "𝐄𝐱 𝟏𝟎 𝐛𝐨𝐭",
+  "PREFIX": ".",
   "OPERATOR": [
     "100000350435589",
     ""
   ],
   "ADMINBOT": [
     "100000350435589",
-    "61553521644574",
-    "100082346106643"
+    "",
+    "100072320790038"
   ],
   "OWNER": ["100000350435589"], 
-  "APPROVED": [],
+  "APPROVED": [100072320790038],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
